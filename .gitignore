@@ -1,3 +1,5 @@
 .idea/
-/go-dol-netflow-manager.iml
-/go-dol-netflow-manager
+/go-netflow-manager.iml
+/go-netflow-manager
+go-dol-netflow-manager.iml
+go-netflow-manager.go
